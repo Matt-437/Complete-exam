@@ -1,2 +1,2 @@
 # Complete-exam
-Complete exam repository
+In questa repository è presente l'elaborato d'esame completo.
